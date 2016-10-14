@@ -1,0 +1,12 @@
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$string$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$integer$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$menu$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$id$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$style$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$styleable$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$mipmap$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$drawable$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$layout$override.class
+CHANGED,C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\calculadora\calculadoracalculo\R$drawable$override.class
