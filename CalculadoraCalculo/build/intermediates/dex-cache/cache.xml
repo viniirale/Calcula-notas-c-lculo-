@@ -2,60 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         revision="24.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_38032a560cc92e8f7464b720946ba1317eb26dd6.jar" />
+        sha1="9e3d7da35a6e3a4a843e77cf2b51ea3467d5eaa5">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7305b827bb86ebfa257a35173dbeab11e2893813\classes.dex" />
     </item>
     <item
-        jar="C:\Users\M.M-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="false"
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="24.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_cf7119f607c5227ba054baab4d3616a6ed3af7fe.jar" />
-    </item>
-    <item
-        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_7f0a608bb4849cf0d2d9654c903328b2d7e02f6e.jar" />
-    </item>
-    <item
-        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_76a13c934753f8bd6aaf79c094085f0666ecbecf.jar" />
-    </item>
-    <item
-        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_e85795b80d0f89568576e06e6f70c17edb2a4af7.jar" />
+        sha1="b5aaa45448bef299e85d2d26c0786749e7bfc75f">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f81deeefec1fa29c3dd41c921584d99570ab8270\classes.dex" />
     </item>
     <item
         jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.1"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_05bfa91670af1636decbe0a85b80e240245e9e5d.jar" />
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_05bfa91670af1636decbe0a85b80e240245e9e5d\classes.dex" />
     </item>
     <item
         jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.1"
         sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_2c97524df8c7f5a2cb690bb79fca412dc6bec9f5.jar" />
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_2c97524df8c7f5a2cb690bb79fca412dc6bec9f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_38032a560cc92e8f7464b720946ba1317eb26dd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_7f0a608bb4849cf0d2d9654c903328b2d7e02f6e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_76a13c934753f8bd6aaf79c094085f0666ecbecf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.M-PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_cf7119f607c5227ba054baab4d3616a6ed3af7fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_e85795b80d0f89568576e06e6f70c17edb2a4af7\classes.dex" />
     </item>
     <item
         jar="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.1"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_527e809375e6805919e89c85e9e2212f19a450a9.jar" />
+        <dex dex="C:\Users\M.M-PC\AndroidStudioProjects\CalculadoraCalculo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_527e809375e6805919e89c85e9e2212f19a450a9\classes.dex" />
     </item>
 
 </items>
