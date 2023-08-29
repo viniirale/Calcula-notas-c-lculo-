@@ -49,9 +49,8 @@ public class MainActivity extends Activity {
 
     }
 
-    private double calcularMedia(double Teste1, double Teste2, double Prova1, double Prova2) {
-        double mediaFinal =(((Teste1*0.3)+(Prova1*0.7))+ ((Teste2*0.3)+(Prova2*0.7)))/2;
-        return mediaFinal;
+    private double calcularMedia(double teste1, double teste2, double prova1, double prova2) {
+        return mediaFinal=teste1*0.3+prova1*0.7+teste2*0.3+prova2*0.7/2;
     }
 
 }
